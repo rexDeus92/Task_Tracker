@@ -39,7 +39,7 @@ exit
 
 ### 3. Project Structure
 ```
-.../
+..../
 ├── core/         # Core logic (models, storage)
 ├── commands/     # Command modules (add, update, etc.)
 ├── wrappers/     # Cross-platform launchers
