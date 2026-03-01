@@ -13,7 +13,7 @@ Task CLI is a simple cross-platform command-line application for managing your t
 ### 1. Clone the repository and enter the project directory:
 ```
 git clone <repo-url>
-cd claude
+cd ./task-tracker
 ```
 ### 2. Work in interactive mode:
 After launch, you will see:
@@ -39,7 +39,7 @@ exit
 
 ### 3. Project Structure
 ```
-..../
+task-tracker/
 ├── core/         # Core logic (models, storage)
 ├── commands/     # Command modules (add, update, etc.)
 ├── wrappers/     # Cross-platform launchers
